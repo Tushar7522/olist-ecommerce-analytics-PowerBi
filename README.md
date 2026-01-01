@@ -1,4 +1,4 @@
-# olist-ecommerce-analytics
+# olist-ecommerce-analytics-PowerBI
 # 🏪 Olist Store Analysis Dashboard
 
 ## 📊 Project Overview
@@ -14,6 +14,21 @@ This project is designed as a **real-world data analytics case study** and is pa
 - **Customer Insights**: Geographic distribution and payment preferences
 - **Product Performance**: Top 10 products by payment value
 - **Delivery Metrics**: Correlation between delivery time and customer satisfaction
+
+## Key Analytical Questions (KPIs)
+
+1. What is the difference in payment value and order behavior between **weekday and weekend purchases** based on order purchase timestamps?
+
+2. How many orders have a **5-star review score** and use **credit card** as the payment method?
+
+3. What is the **average number of days taken for order delivery** (order_delivered_customer_date) for the **Pet Shop** product category?
+
+4. What are the **average product price and payment value** for customers located in **São Paulo city**?
+
+5. What is the relationship between **shipping duration**  
+   (order_delivered_customer_date − order_purchase_timestamp)  
+   and **customer review scores**?
+
 
 ## 🖼️ Dashboard Screenshots
 

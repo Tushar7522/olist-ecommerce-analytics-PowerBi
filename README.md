@@ -31,15 +31,15 @@ This project is designed as a **real-world data analytics case study** and is pa
 
 ## 🖼️ Dashboard Screenshots
 
-### Main Dashboard
+### Main Dashboard -:
 <img width="1514" height="797" alt="Screenshot 2025-10-16 161047" src="https://github.com/user-attachments/assets/56ec0ae2-7dfa-49ba-bbc4-9dc4d6dd8229" />
 
 
-### Weekday Report
+### Weekday Report -:
 <img width="1440" height="804" alt="Screenshot 2025-10-16 160838" src="https://github.com/user-attachments/assets/12320595-826b-41b8-b660-88c9ad2b26ec" />
 
 
-### AVG Analysis Report
+### AVG Analysis Report -:
 <img width="1428" height="802" alt="Screenshot 2025-10-16 160718" src="https://github.com/user-attachments/assets/c06e13a7-a783-48b8-b361-b5c1f40d8890" />
 
 

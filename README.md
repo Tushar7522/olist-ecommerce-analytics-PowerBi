@@ -1,11 +1,11 @@
 # 🏪 olist-ecommerce-analytics-PowerBI
----
+
 ## 📊 Project Overview
 
 This project analyzes sales performance, customer behavior, payment patterns, and delivery efficiency of the Olist e-commerce platform using  **Power BI**.
 The objective is to extract actionable business insights that help improve customer satisfaction, optimize delivery performance, and increase overall revenue.
 This project is designed as a **real-world data analytics case study** and is part of my professional data analytics portfolio.
----
+
 ### 🎯 Key Features
 
 - **Real-time KPI Monitoring**: Track 99.4K customers, 16M in total payments, 4.09 avg review score
